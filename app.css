@@ -1,0 +1,14 @@
+.card{
+    width:18rem;
+    background-color:white;
+}
+body{
+    background-color: white;
+}
+img{
+    width: 50%;
+    height: 50%;
+}
+#head{
+    margin-top: 70px;
+}
